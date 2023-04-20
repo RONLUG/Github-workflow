@@ -1,2 +1,2 @@
 # git-workflow
-Hello from new-branch
+Hello from new-branch!
